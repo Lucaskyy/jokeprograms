@@ -9,6 +9,7 @@ YOU HAVE BEEN WARNED!
 RektAV Setup: Its still buugy, the closing has some nasty errors in it, so its not a good idea if you want to send it. But you can test it if you want to :)
 
 Q:Is it safe, and can i send it to my friends as a prank?
+
 A: Yes, ofcourse. Its totally safe, and yes you can send it. But pls dont blame me if he gets mad about it :3
 
 Thanks!
