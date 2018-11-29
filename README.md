@@ -6,7 +6,7 @@ With some joke programs, its advised to do in a VM because 99% its a pain in the
 YOU HAVE BEEN WARNED!
 
 # Some things about programs here.
-RektAV Setup: Its still buugy, the closing has some nasty errors in it, so its not a good idea if you want to send it. But you can test it if you want to :)
+RektAV Setup: Its still buugy, the closing has some nasty errors in it, so its not a good idea if you want to send it. But you can test it if you want to :) PS: Please run it as ADMIN, because i forgot to make it do as admin. Otherwise it will fail at start :(
 
 Q:Is it safe, and can i send it to my friends as a prank?
 
