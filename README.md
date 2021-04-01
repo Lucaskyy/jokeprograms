@@ -1,16 +1,6 @@
-# Joke Programs by Lucaskyy
-Hey, thanks for checking out my joke program repo.
-Here are all my joke programs you can play with, send to your friends as an prank.
+# !! IGNORE !!
+I made this repo a fairly long time ago, and the reason I'm keeping it is because *for some reason* this useless shitty repo is in the Arctic Code Vault.
 
-With some joke programs, its advised to do in a VM because 99% its a pain in the ass to stop it.
-YOU HAVE BEEN WARNED!
+**Don't ask me why!**
 
-# Some things about programs here.
-RektAV Setup: Its still buugy, the closing has some nasty errors in it, so its not a good idea if you want to send it. But you can test it if you want to :) PS: Please run it as ADMIN, because i forgot to make it do as admin. Otherwise it will fail at start :(
-
-Q:Is it safe, and can i send it to my friends as a prank?
-
-A: Yes, ofcourse. Its totally safe, and yes you can send it. But pls dont blame me if he gets mad about it :3
-
-Thanks!
-# Copyright © Lucaskyy 2018
+So please ignore this repo, thank you.
